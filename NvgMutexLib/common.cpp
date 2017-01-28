@@ -1,0 +1,1 @@
+wchar_t* mailslot_name = L"\\\\.\\mailslot\\nvg_mutex_main";
